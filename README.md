@@ -12,7 +12,7 @@ Bu proje IMDb film verileri analiz edilerek yapılmıştır. Veri seti Kaggle'da
 * Min değerine bakarak en eski filmin 1920 yılında , max değerine bakarak da en yeni filmin 2022 yılında yayınlandığını söyleyebiliriz.
 
 ## Yıllara Göre Film Sayısı
-
+![bar](https://github.com/user-attachments/assets/4028c618-56b8-447d-bf21-c79d985cd02f)
 * Bar grafiğine bakılarak en fazla filmin yayınlandığı yılın 2004 olduğunu görüyoruz.
 
 
